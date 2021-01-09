@@ -24,7 +24,7 @@
 <br>
 [Lecture 11: Destructor, Copy Assignment Operator](https://github.com/lilcser/CS246-Notes/blob/master/Lecture%2011:%20Destructor%2C%20Copy%20Assignment%20Operator.md) <br>
 <br>
-[Lecture 12: References, Move Assignment Operator, Separate Compilation](https://github.com/lilcser/CS246-Notes/blob/master/Lecture%2012:%20References%2C%20Move%20Assignment%20Operator%2C%20Separate%20Compilation%20%20.md) <br>
+[Lecture 12: References, Move Assignment Operator, Separate Compilation](https://github.com/lilcser/CS246-Notes/blob/master/Lecture%2012:%20References%2C%20Move%20Assignment%20Operator%2C%20Separate%20Compilation.md) <br>
 <br>
 [Lecture 13: Const, Mutable, Static, Invariants and Encapsulation](https://github.com/lilcser/CS246-Notes/blob/master/Lecture%2013:%20Const%2C%20Mutable%2C%20Static%2C%20Invariants%20and%20Encapsulation.md) <br>
 <br>
