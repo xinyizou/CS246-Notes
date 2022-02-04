@@ -36,6 +36,10 @@
 Command| Functionality
 --- | ---
 **ls** |  list none hidden files 
+**ls -R** |  list recursively down all folders and files in the directories and sub-directionies
+**ls -l** |  list files and permissions (known as long format)
+**ls -s** |  list wtih file size
+**ls -t** |  list with time and date 
 **ls -a** | list all files include hidden files
 **pwd** | show present working directory |
 **cd [*PATH*]** | change directory |
