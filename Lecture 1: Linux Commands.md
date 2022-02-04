@@ -47,7 +47,7 @@ Command| Functionality
 
 
 ### Ouput Redirection >
-Redirect output to a file
+Creates the file and then you can type the desired text to enter in the file. End file with Ctrl+D
 <pre>
 $ cat > [<b>FileName</b>]
 </pre>
@@ -68,6 +68,9 @@ $ cat file2.txt file1.txt
 - Concatenation creates a new object since it is immutable
 - Append will not create a new object since it is mutable
 </pre>
+
+#### Flags
+-n displays line numbers
 
 #### [Standard Error >&2](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-3.html)
 ---------------------------------------------------------------
