@@ -52,6 +52,11 @@ Creates the file and then you can type the desired text to enter in the file. En
 $ cat > [<b>FileName</b>]
 </pre>
 
+overwite contents of file2 with file1
+<pre>
+$ cat file1 > file2
+</pre>
+
 #### Append >> 
 <pre>
 append file2 to file1
